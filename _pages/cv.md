@@ -39,7 +39,7 @@ analysis*, Wave Motion (2019).
 
 Talks & Presentations
 -----
-* [Siam - Mathematics of Planet Earth (Summer 2020)](https://www.youtube.com/watch?v=hHOs3vbIYio)
+* [Siam - Mathematics of Planet Earth (Summer 2020)](https://www.youtube.com/watch?v=hHOs3vbIYio). Title of talk: *Data assimilation experiments with a reduced-order model of the geodynamo*
 
 Title of talk: *Data assimilation experiments with a reduced-order model of the geodynamo*
 
