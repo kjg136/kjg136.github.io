@@ -15,20 +15,16 @@ redirect_from:
 * M.S. Applied Mathematics, University of Arizona, 2019
 * Ph.D. in Geophysics, Scripps Institution of Oceanography, 2021 (expected)
 
-Research Interests
------
+### Research Interests
 Numerical Analysis, Mathematical Modeling, Data Assimilation, Geomagnetism.
 
-Research Experience
------
+### Research Experience
 Graduate Intern, NASA Goddard Space Flight Center
 
-Awards
------
+### Awards
 NASA Earth and Space Science Fellowship (NESSF)
 
-Publications
------
+### Publications
 * K. Gwirtz, M. Morzfeld, A. Fournier and G. Hulot, *Can one use Earth's magnetic axial dipole field intensity to predict reversals?*
 (In review)
 
@@ -37,8 +33,7 @@ electromagnetic pulse from a Lorentz-Duffing film: theoretical and numerical
 analysis*, Wave Motion (2019).
 
 
-Talks & Presentations
------
+### Talks & Presentations
 * [Siam - Mathematics of Planet Earth (Summer 2020)](https://www.youtube.com/watch?v=hHOs3vbIYio)\
 Title of Talk: *Data assimilation experiments with a reduced-order model of the geodynamo*
 
