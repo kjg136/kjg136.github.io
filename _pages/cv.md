@@ -40,10 +40,10 @@ analysis*, Wave Motion (2019).
 Talks & Presentations
 -----
 * [Siam - Mathematics of Planet Earth (Summer 2020)](https://www.youtube.com/watch?v=hHOs3vbIYio)\
-Title of talk: *Data assimilation experiments with a reduced-order model of the geodynamo*
+Title of Talk: *Data assimilation experiments with a reduced-order model of the geodynamo*
 
 * Scripps Institution of Oceanography, Paleomagnetism Seminar (Summer 2020)\
-Title of talk: *Can one use Earth's magnetic axial dipole field intensity to predict reversals?*
+Title of Talk: *Can one use Earth's magnetic axial dipole field intensity to predict reversals?*
 
 * International Union of Geodesy and Geophysics General Assembly (Summer 2019)\
 Title of Poster: *Geomagnetic data assimilation: numerical experiments with a reduced-scale model*
