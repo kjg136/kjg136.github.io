@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Can one use the Earth's axial dipole field intensity to predict reversals?
+======
+In review
 
-{% include base_path %}
+Scattering of a short electromagnetic pulse from a Lorentz-Duffing film: theoretical and numerical analysis
+======
+Wave Motion (2019).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
