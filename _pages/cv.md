@@ -16,15 +16,15 @@ Education
 * Ph.D in Geophysics, Scripps Institution of Oceanography, 2021 (expected)
 
 Research Interests
-======
+-----
 Numerical Analysis, Mathematical Modeling, Data Assimilation, Geomagnetism.
 
 Awards
-======
+-----
 NASA Earth and Space Science Fellowship (NESSF)
 
 Publications
-======
+-----
 * K. Gwirtz, M. Morzfeld, A. Fournier and G. Hulot, *Can one use Earth's magnetic axial dipole field intensity to predict reversals?*
 (In review)
 
