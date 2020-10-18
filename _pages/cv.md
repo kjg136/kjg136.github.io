@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Mathematics, University of Kansas, 2009
+* M.S. Applied Mathematics, University of Arizona, 2019
+* Ph.D in Geophysics, Scripps Institution of Oceanography, 2021 (expected)
 
-Work experience
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Numerical Analysis, Mathematical Modeling, Data Assimilation, Geomagnetism.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+NASA Earth and Space Science Fellowship (NESSF)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* K. Gwirtz, M. Morzfeld, A. Fournier and G. Hulot, *Can one use Earth's magnetic axial dipole field intensity to predict reversals?*
+(In review)
+
+* M. Brio, J.G. Caputo, K. Gwirtz, J. Liu and A. Maimistov, *Scattering of a short
+electromagnetic pulse from a Lorentz-Duffing film: theoretical and numerical
+analysis*, Wave Motion (2019).
