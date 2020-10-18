@@ -42,25 +42,20 @@ Talks & Presentations
 * [Siam - Mathematics of Planet Earth (Summer 2020)](https://www.youtube.com/watch?v=hHOs3vbIYio)\
 Title of talk: *Data assimilation experiments with a reduced-order model of the geodynamo*
 
-Title of talk: *Data assimilation experiments with a reduced-order model of the geodynamo*
-
-* Scripps Institution of Oceanography, Paleomagnetism Seminar (Summer 2020)
-
+* Scripps Institution of Oceanography, Paleomagnetism Seminar (Summer 2020)\
 Title of talk: *Can one use Earth's magnetic axial dipole field intensity to predict reversals?*
 
-* International Union of Geodesy and Geophysics General Assembly (Summer 2019)
-
+* International Union of Geodesy and Geophysics General Assembly (Summer 2019)\
 Title of Poster: *Geomagnetic data assimilation: numerical experiments with a reduced-scale model*
 
-* American Geophysical Union (Fall 2018 Meeting) 
-
+* American Geophysical Union (Fall 2018 Meeting)\
 Title of Poster: *Localization and bias correction in geomagnetic data assimilation: systematic numerical experiments with reduced-scale models*
 
-* U2 can UQ, University of Arizona (Spring 2018)
+* U2 can UQ, University of Arizona (Spring 2018)\
 Title of Talk: *Geomagnetic data assimilation*
 
-* RTG workshop, University of Arizona (Fall 2017)
+* RTG workshop, University of Arizona (Fall 2017)\
 Title of Talk: *Invariant densities for maps with noise*
 
-* RTG workshop, University of Arizona (Spring 2017)
+* RTG workshop, University of Arizona (Spring 2017)\
 Title of Talk: *Thin ferroelectric films*
