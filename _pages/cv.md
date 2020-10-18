@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<h4>Education </h4>
------
+#### Education 
+
 * B.S. Mathematics, University of Kansas, 2009
 * M.S. Applied Mathematics, University of Arizona, 2019
 * Ph.D. in Geophysics, Scripps Institution of Oceanography, 2021 (expected)
