@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-#### Education 
+### Education 
 
 * B.S. Mathematics, University of Kansas, 2009
 * M.S. Applied Mathematics, University of Arizona, 2019
