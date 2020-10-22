@@ -10,10 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ### Education 
-
-* B.S. Mathematics, University of Kansas, 2009
+* Ph.D. in Geophysics, Scripps Institution of Oceanography, In progress
 * M.S. Applied Mathematics, University of Arizona, 2019
-* Ph.D. in Geophysics, Scripps Institution of Oceanography, 2021 (expected)
+* B.S. Mathematics, University of Kansas, 2009
 
 ### Research Interests
 Numerical Analysis, Mathematical Modeling, Data Assimilation, Geomagnetism.
