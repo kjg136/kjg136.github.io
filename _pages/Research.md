@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+Threshold-based predictions of the Earth's axial magnetic dipole field
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
