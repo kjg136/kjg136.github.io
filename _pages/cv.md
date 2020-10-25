@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download CV [here](/_files/CV_Gwirtz.pdf)
+Download CV [here](/files/CV_Gwirtz.pdf)
 ### Education 
 * Ph.D. in Geophysics, Scripps Institution of Oceanography, In progress
 * M.S. Applied Mathematics, University of Arizona, 2019
