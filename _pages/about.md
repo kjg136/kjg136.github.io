@@ -14,3 +14,6 @@ Contact
 ======
 
 Email: kgwirtz@ucsd.edu
+
+<br>
+<img src="/files/Sphere.png">
