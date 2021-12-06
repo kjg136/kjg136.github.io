@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kyle Gwirtz"
 title_separator          : "-"
 name                     : &name "Kyle Gwirtz"
-description              : &description "PhD candidate"
+description              : &description "NASA Postdoctoral Fellow"
 url                      : https://kjg136.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kyle Gwirtz"
   avatar           : "profile.png"
-  bio              : "PhD candidate, Institute of Geophysics and Planetary Physics, Scripps Institution of Oceanography, University of California, San Diego"
-  location         : "La Jolla, CA"
+  bio              : "NASA Postdoctoral Fellow (NPP), NASA Goddard Space Flight Center"
+  location         : "Greenbelt, MD"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "kgwirtz@ucsd.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=CkFLsJcAAAAJ&hl=en&oi=ao"
+  email            : "KyleGwirtz@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@KyleGwirtz"
   vine             :
   weibo            :
   xing             :
