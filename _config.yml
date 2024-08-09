@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kyle Gwirtz"
 title_separator          : "-"
 name                     : &name "Kyle Gwirtz"
-description              : &description "NASA Postdoctoral Fellow"
+description              : &description "Assistant Research Scientist"
 url                      : https://kjg136.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kyle Gwirtz"
   avatar           : "profile.png"
-  bio              : "NASA Postdoctoral Fellow (NPP), NASA Goddard Space Flight Center"
+  bio              : "Assistant Research Scientist, UMBC/NASA GSFC"
   location         : "Greenbelt, MD"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
