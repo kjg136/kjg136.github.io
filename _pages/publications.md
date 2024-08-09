@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* K. Gwirtz, W. Kuang, C. Yi, A. Tangborn *Impact of localization and inflation on geomagnetic data assimilation, Physics of the Earth and Planetary Interiors, 355, (2024)
+* K. Gwirtz, W. Kuang, C. Yi, A. Tangborn *Impact of localization and inflation on geomagnetic data assimilation*, Physics of the Earth and Planetary Interiors, 355, (2024)
   
 * W. Kuang, K. Gwirtz, A. Tangborn, M. Morzfeld *Understanding and predicting geomagnetic secular variation via data assimilation*, IUGG special publication series, *Applications of data assimilation and inverse problems in the Earth Sciences*, chap 4.1, editors A. Ismail-Zadeh, F. Castelli, D. Jones, S. Sanchez, (2023)
 
