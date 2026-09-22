@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* K. Gwirtz, T. Sabaka, W. Kuang, *A secular variation candidate for IGRF-14 based on core-flow inversion via an ensemble Kalman smoother*, Earth, Planets and Space 77 (1), 1-16, (2025)
+
 * K. Gwirtz, W. Kuang, C. Yi, A. Tangborn, *Impact of localization and inflation on geomagnetic data assimilation*, Physics of the Earth and Planetary Interiors, 355, (2024)
 
 * D. Vishny, M. Morzfeld, K. Gwirtz, E. Bach, O.R.A. Dunbar, D. Hodyss, *High‐dimensional covariance estimation from a small number of samples*, Journal of Advances in Modeling Earth Systems 16 (9) (2024)
