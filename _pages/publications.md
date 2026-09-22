@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+[Kyle Gwirtz Google Scholar](https://scholar.google.com/citations?user=CkFLsJcAAAAJ&hl=en&oi=ao)
 * K. Gwirtz, T. Sabaka, W. Kuang, *A secular variation candidate for IGRF-14 based on core-flow inversion via an ensemble Kalman smoother*, Earth, Planets and Space 77 (1), 1-16, (2025)
 
 * K. Gwirtz, W. Kuang, C. Yi, A. Tangborn, *Impact of localization and inflation on geomagnetic data assimilation*, Physics of the Earth and Planetary Interiors, 355, (2024)
